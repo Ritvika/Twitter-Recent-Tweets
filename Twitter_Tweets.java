@@ -10,11 +10,11 @@ import twitter4j.TwitterFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
 public class Twitter_Tweets {
-	//Access keys have been declared for gaining access to tweets
-	private final static String Consumer_Key = "7HmKpSMc8u1ZMth71WUTCQWoc"; 
-	private final static String Consumer_Secret = "HkePb2cANxclTvzkAoLmpDjsSBGSWOChX1sUYrP3ztk8W6kgNu";
-	private final static String Access_Token = "782679996733149185-GdIDKqaYmbGJkY480Kw41VuhXNmriSJ"; 
-	private final static String Access_Token_Secret = "UKm9LNfzkqfrRWIMBUzAOGiiM3yfo1mFsVPTLk9UJymgU";
+	//Provide the Access keys from your twitter application for gaining access to tweets
+	private final static String Consumer_Key = ""; 
+	private final static String Consumer_Secret = "";
+	private final static String Access_Token = ""; 
+	private final static String Access_Token_Secret = "";
 	
 	public static void main (String[] args) throws TwitterException, IOException {
 		
